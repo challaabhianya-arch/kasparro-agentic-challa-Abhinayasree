@@ -1,1 +1,18 @@
+{
+  "product_name": "GlowBoost Vitamin C Serum",
+  "category": "Skincare",
+  "description": "GlowBoost Vitamin C Serum is designed to brighten skin and reduce dark spots using a lightweight formula.",
+  "key_ingredients": [
+    "Vitamin C",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "benefits": [
+    "Brightens skin tone",
+    "Reduces pigmentation",
+    "Hydrates skin"
+  ],
+  "usage_instructions": "Apply 2-3 drops on clean skin in the morning before sunscreen.",
+  "price": "₹699"
+}
 
