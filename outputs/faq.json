@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What is Kasparro Agentic Content Generation System?",
+      "answer": "Kasparro is a multi-agent content generation system that produces structured outputs like FAQs, product pages, and comparison pages."
+    },
+    {
+      "question": "What is the goal of this project?",
+      "answer": "The goal is to demonstrate an agent-based architecture for automated content generation."
+    },
+    {
+      "question": "Which agents are used in this system?",
+      "answer": "The system includes data parsing, question generation, logic processing, templating, page assembly, and orchestration agents."
+    },
+    {
+      "question": "What format does the system generate?",
+      "answer": "All generated content is structured and stored in JSON format."
+    },
+    {
+      "question": "Is this project suitable for scalable content generation?",
+      "answer": "Yes, the modular agent design allows easy scalability and extension."
+    }
+  ]
+}
