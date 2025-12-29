@@ -1,0 +1,23 @@
+{
+  "comparison": {
+    "product_a": {
+      "name": "GlowBoost Vitamin C Serum",
+      "price": "₹699",
+      "key_benefits": [
+        "Brightening",
+        "Hydration",
+        "Dark spot reduction"
+      ]
+    },
+    "product_b": {
+      "name": "RadiantFix Vitamin Serum",
+      "price": "₹899",
+      "key_benefits": [
+        "Brightening",
+        "Even skin tone",
+        "Anti-aging"
+      ]
+    }
+  }
+}
+
